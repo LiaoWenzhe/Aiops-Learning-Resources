@@ -1,134 +1,16 @@
-Anomaly Detection Learning Resources
-====================================
 
-.. image:: https://img.shields.io/github/stars/yzhao062/anomaly-detection-resources.svg
-   :target: https://github.com/yzhao062/anomaly-detection-resources/stargazers
-   :alt: GitHub stars
+Aiops学习资源（Aiops Learning Resources）
+====================================================
 
-
-.. image:: https://img.shields.io/github/forks/yzhao062/anomaly-detection-resources.svg?color=blue
-   :target: https://github.com/yzhao062/anomaly-detection-resources/network
-   :alt: GitHub forks
-
-
-.. image:: https://img.shields.io/github/license/yzhao062/anomaly-detection-resources.svg?color=blue
-   :target: https://github.com/yzhao062/anomaly-detection-resources/blob/master/LICENSE
-   :alt: License
-
-
-.. image:: https://awesome.re/badge-flat2.svg
-   :target: https://awesome.re/badge-flat2.svg
-   :alt: Awesome
-
-
-----
-
-`Outlier Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_
-(also known as *Anomaly Detection*) is an exciting yet challenging field,
-which aims to identify outlying objects that are deviant from the general data distribution.
-Outlier detection has been proven critical in many fields, such as credit card
-fraud analytics, network intrusion detection, and mechanical unit defect detection.
-
-This repository collects:
-
-
-#. Books & Academic Papers 
-#. Online Courses and Videos
-#. Outlier Datasets
-#. Open-source and Commercial Libraries/Toolkits
-#. Key Conferences & Journals
-
-
-**More items will be added to the repository**.
-Please feel free to suggest other key resources by opening an issue report,
-submitting a pull request, or dropping me an email @ (zhaoy@cmu.edu).
-Enjoy reading!
-
-BTW, you may find my `[GitHub] <https://github.com/yzhao062>`_ and
-`[outlier detection papers] <https://scholar.google.com/citations?user=zoGDYsoAAAAJ&hl=en>`_ useful.
-
-----
+AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人工智能的能力与运维相结合，通过机器学习的方法来提升运维效率。
+-----------------
 
 Table of Contents
 -----------------
 
-
-* `1. Books & Tutorials <#1-books--tutorials>`_
-
-  * `1.1. Books <#11-books>`_
-  * `1.2. Tutorials <#12-tutorials>`_
-
-* `2. Courses/Seminars/Videos <#2-coursesseminarsvideos>`_
-* `3. Toolbox & Datasets <#3-toolbox--datasets>`_
-
-  * `3.1. Multivariate data outlier detection <#31-multivariate-data>`_
-  * `3.2. Time series outlier detection <#32-time-series-outlier-detection>`_
-  * `3.3. Real-time Elasticsearch <#33-real-time-elasticsearch>`_
-  * `3.4. Datasets <#34-datasets>`_
-
-* `4. Papers <#4-papers>`_
-
-  * `4.1. Overview & Survey Papers <#41-overview--survey-papers>`_
-  * `4.2. Key Algorithms <#42-key-algorithms>`_
-  * `4.3. Graph & Network Outlier Detection <#43-graph--network-outlier-detection>`_
-  * `4.4. Time Series Outlier Detection <#44-time-series-outlier-detection>`_
-  * `4.5. Feature Selection in Outlier Detection <#45-feature-selection-in-outlier-detection>`_
-  * `4.6. High-dimensional & Subspace Outliers <#46-high-dimensional--subspace-outliers>`_
-  * `4.7. Outlier Ensembles <#47-outlier-ensembles>`_
-  * `4.8. Outlier Detection in Evolving Data <#48-outlier-detection-in-evolving-data>`_
-  * `4.9. Representation Learning in Outlier Detection <#49-representation-learning-in-outlier-detection>`_
-  * `4.10. Interpretability <#410-interpretability>`_
-  * `4.11. Outlier Detection with Neural Networks <#411-outlier-detection-with-neural-networks>`_
-  * `4.12. Active Anomaly Detection <#412-active-anomaly-detection>`_
-  * `4.13. Interactive Outlier Detection <#413-interactive-outlier-detection>`_
-  * `4.14. Outlier Detection in Other fields <#414-outlier-detection-in-other-fields>`_
-  * `4.15. Outlier Detection Applications <#415-outlier-detection-applications>`_
-  * `4.16. Automated Outlier Detection <#416-automated-outlier-detection>`_
-  * `4.17. Machine Learning Systems for Outlier Detection <#417-machine-learning-systems-for-outlier-detection>`_
-  * `4.18. Fairness and Bias in Outlier Detection <#418-fairness-and-bias-in-outlier-detection>`_
-  * `4.19. Isolation-based Methods <#419-isolation-based-methods>`_
-  * `4.20. Emerging and Interesting Topics <#420-emerging-and-interesting-topics>`_
-
-* `5. Key Conferences/Workshops/Journals <#5-key-conferencesworkshopsjournals>`_
-
-  * `5.1. Conferences & Workshops <#51-conferences--workshops>`_
-  * `5.2. Journals <#52-journals>`_
-
-
-----
-
-
 1. Books & Tutorials
 --------------------
-
-1.1. Books
-^^^^^^^^^^
-
-`Outlier Analysis <https://www.springer.com/gp/book/9781461463955>`_ 
-by Charu Aggarwal: Classical text book covering most of the outlier analysis techniques. 
-A **must-read** for people in the field of outlier detection. `[Preview.pdf] <http://charuaggarwal.net/outlierbook.pdf>`_
-
-`Outlier Ensembles: An Introduction <https://www.springer.com/gp/book/9783319547640>`_ 
-by Charu Aggarwal and Saket Sathe: Great intro book for ensemble learning in outlier analysis.
-
-`Data Mining: Concepts and Techniques (3rd) <https://www.elsevier.com/books/data-mining-concepts-and-techniques/han/978-0-12-381479-1>`_ 
-by Jiawei Han and Micheline Kamber and Jian Pei: Chapter 12 discusses outlier detection with many key points. `[Google Search] <https://www.google.ca/search?&q=data+mining+jiawei+han&oq=data+ming+jiawei>`_
-
-1.2. Tutorials
-^^^^^^^^^^^^^^
-
-===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
-Tutorial Title                                        Venue                                         Year   Ref                           Materials
-===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
-Data mining for anomaly detection                     PKDD                                          2008   [#Lazarevic2008Data]_         `[Video] <http://videolectures.net/ecmlpkdd08_lazarevic_dmfa/>`_
-Outlier detection techniques                          ACM SIGKDD                                    2010   [#Kriegel2010Outlier]_        `[PDF] <https://imada.sdu.dk/~zimek/publications/KDD2010/kdd10-outlier-tutorial.pdf>`_
-Anomaly Detection: A Tutorial                         ICDM                                          2011   [#Chawla2011Anomaly]_         `[PDF] <http://webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf>`_
-Anomaly Detection in Networks                         KDD                                           2017   [#Mendiratta2017Anomaly]_     `[Page] <https://veena-mendiratta.blog/tutorial-anomaly-detection-in-networks/>`_
-Which Anomaly Detector should I use?                  ICDM                                          2018   [#Ting2018Which]_             `[PDF] <https://federation.edu.au/__data/assets/pdf_file/0011/443666/ICDM2018-Tutorial-Final.pdf>`_
-Deep Learning for Anomaly Detection                   KDD                                           2020   [#Wang2020Deep]_              `[HTML] <https://sites.google.com/view/kdd2020deepeye/home>`_, `[Video] <https://www.youtube.com/watch?v=Fn0qDbKL3UI&list=PLn0nrSd4xjja7AD3aY9Jxmr820gx59EQC&index=66>`_
-Deep Learning for Anomaly Detection                   WSDM                                          2021   [#Pang2021Deep]_              `[HTML] <https://sites.google.com/site/gspangsite/wsdm21_tutorial>`_
-===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
-
+https://github.com/LiaoWenzhe/BigdataAi/tree/main/projects
 ----
 
 2. Courses/Seminars/Videos
