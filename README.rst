@@ -1,13 +1,8 @@
 Aiops学习资源（Aiops Learning Resources）
 ====================================================
 
-`AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人工智能的能力与运维相结合，通过机器学习的方法来提升运维效率。
+AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人工智能的能力与运维相结合，通过机器学习的方法来提升运维效率。
 
-
-
-**更多内容会被陆续添加到当前仓库中来**。
-请建议/推荐相关资源，你可以选择提交issue report、pull request或者给我发邮件 (zhaoy@cmu.edu)。
-Enjoy reading！
 
 ----
 
