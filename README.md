@@ -16,7 +16,8 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
    5.《k-Shape: Efficient and Accurate Clustering of Time Series》<br>
    6.《Probabilistic Alert Correlation》<br>
    7.https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g<br>
-   8.
+
+
 3. 时间序列异常检测：
     1.《Time-Series Anomaly Detection Service at Microsof》<br>
     2.《Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications》<br><br>
