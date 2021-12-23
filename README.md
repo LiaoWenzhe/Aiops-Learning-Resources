@@ -69,7 +69,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       4. https://github.com/AI-Sphere/Awesome-Noah<br>
       5. https://github.com/Tencent/Metis<br>
       6. https://github.com/linjinjin123/awesome-AIOps<br>
-      7. 微信公众号：智能运维前沿
+      7. 微信公众号：智能运维前沿<br>
       8. 微信公众号：时序人
        
   
