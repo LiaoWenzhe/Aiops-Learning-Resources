@@ -10,8 +10,8 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
 
 2. 时间序列分类：
 ^^^^^^^^^^^^^^^^^^^^^^
-   《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
-   《Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection》
+   1.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
+   2.《Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection》
    《A Density-Based Algorithm for Discovering Clusters》
    《YADING: Fast Clustering of Large-Scale Time Series Data》
    《k-Shape: Efficient and Accurate Clustering of Time Series》
