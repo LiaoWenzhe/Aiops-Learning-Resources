@@ -34,6 +34,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
     8. https://zr9558.com/2018/11/30/timeseriespredictionfbprophet/<br>
     9. https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&chksm=8b685c6cbc1fd57a27a476fe1f15a59b25f4928094b2a49b7e8f054ed0cc5dc29a243173bf2e&idx=1&mid=2653057356&scene=21&sn=85d82226c7f66685ec8cf486569976dc#wechat_redirect<br>
     10. https://zhuanlan.zhihu.com/p/108843309<br>
+    11. https://keras.io/examples/timeseries/timeseries_transformer_classification/<br>
  
 4. 关联分析：<br>
 
@@ -69,5 +70,6 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       5. https://github.com/Tencent/Metis<br>
       6. https://github.com/linjinjin123/awesome-AIOps<br>
       7. 微信公众号：智能运维前沿
+      8. 微信公众号：时序人
        
   
