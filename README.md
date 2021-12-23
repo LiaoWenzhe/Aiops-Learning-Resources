@@ -1,15 +1,15 @@
 
-Aiops学习资源（Aiops Learning Resources）
-====================================================
+#Aiops学习资源（Aiops Learning Resources）
+
 
 AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人工智能的能力与运维相结合，通过机器学习的方法来提升运维效率。
 --------------------------
 1. Aiops系统落地实践：
-^^^^^^^^^^^^^^^^^^^^^^
+
     https://github.com/LiaoWenzhe/BigdataAi/tree/main/projects
 
 2. 时间序列分类：
-^^^^^^^^^^^^^^^^^^^^^^
+
    1.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
    2.《Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection》
    《A Density-Based Algorithm for Discovering Clusters》
@@ -20,7 +20,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
    
 
 3. 时间序列异常检测：
-^^^^^^^^^^^^^^^^^^^^^^
+
     《Time-Series Anomaly Detection Service at Microsof》
     《Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications》
     《Anomaly Detection in Streams with Extreme Value Theory》
@@ -33,14 +33,14 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
      https://zhuanlan.zhihu.com/p/108843309
  
 4. 关联分析：
-^^^^^^^^^^^^^^^^^^^^^^
+
      《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》
      《CoFlux: Robustly Correlating KPIs by Fluctuations for Service Troubleshooting》
      《Correlating Events with Time Series for Incident Diagnosis》
      《Detecting Leaders from Correlated Time Series》
 
 5. 告警收敛：
-^^^^^^^^^^^^^^^^^^^^^^
+
       《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
       《CMining Alarm Clusters to Improve Alarm Handling Efficiency》
       《Automatically and Adaptively Identifying Severe Alerts for Online Service Systems》
@@ -51,13 +51,13 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       《Probabilistic Alert Correlation》
       
 6. 根因分析：
-^^^^^^^^^^^^^^^^^^^^^^
+
       《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
       《FluxRank: A Widely-Deployable Framework to Automatically Localizing Root Cause Machines for Software Service Failure Mitigation》
       《Adtributor: Revenue debugging in advertising systems》
       《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》
 7. 其他资源
-^^^^^^^^^^^^^^^^^^^^^^
+
        https://github.com/NetManAIOps
        https://github.com/AI-Sphere/Awesome-Noah
        https://github.com/Tencent/Metis
