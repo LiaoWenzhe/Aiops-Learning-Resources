@@ -5,21 +5,18 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
 
 
 -------------
-
-1.时间序列分类
-^^^^^^^^
-
-`Outlier Analysis <https://www.springer.com/gp/book/9781461463955>`_
-作者: Charu Aggarwal: 经典异常检测教科书，内容涵盖了大部分相关算法与应用。异常检测领域人士必读。
-`[预览.pdf] <http://charuaggarwal.net/outlierbook.pdf>`_
-
-`Outlier Ensembles: An Introduction <https://www.springer.com/gp/book/9783319547640>`_
-作者: Charu Aggarwal and Saket Sathe: 非常权威的集成异常检测教科书。
-
-`Data Mining: Concepts and Techniques (3rd) <https://www.elsevier.com/books/data-mining-concepts-and-techniques/han/978-0-12-381479-1>`_
-作者: 韩家炜 (Jiawei Han) and Micheline Kamber and Jian Pei (裴健): 该书第十二章讨论了异常检测技术。 `[Google Search] <https://www.google.com/search?&q=data+mining+jiawei+han&oq=data+ming+jiawei>`_
-
-1.2. 教程
+1. Aiops系统落地实践：
+ https://github.com/LiaoWenzhe/BigdataAi/tree/main/projects
+2. 时间序列分类
+《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
+《Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection》
+《A Density-Based Algorithm for Discovering Clusters》
+《YADING: Fast Clustering of Large-Scale Time Series Data》
+《k-Shape: Efficient and Accurate Clustering of Time Series》
+《Probabilistic Alert Correlation》
+  https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g
+  
+3. 时间序列异常检测
 ^^^^^^^^
 
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
