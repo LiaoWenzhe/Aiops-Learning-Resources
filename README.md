@@ -16,17 +16,17 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
    4.《YADING: Fast Clustering of Large-Scale Time Series Data》<br>
    5.《k-Shape: Efficient and Accurate Clustering of Time Series》<br>
    6.《Probabilistic Alert Correlation》<br>
-   7.https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g<br>
+   7. https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g<br>
 
 
 3. 时间序列异常检测：<br>
 
     1.《Time-Series Anomaly Detection Service at Microsof》<br>
-    2.《Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications》<br><br>
+    2.《Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications》<br>
     3.《Anomaly Detection in Streams with Extreme Value Theory》<br>
     4. https://github.com/yzhao062/anomaly-detection-resources<br>
     5. https://zhuanlan.zhihu.com/p/150316014<br>
-    6.https://www.zhihu.com/question/29507442/answer/1212624591<br>
+    6. https://www.zhihu.com/question/29507442/answer/1212624591<br>
     7. https://www.zhihu.com/question/283641524/answer/1211966582<br>
     8. https://zr9558.com/2018/11/30/timeseriespredictionfbprophet/<br>
     9. https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&chksm=8b685c6cbc1fd57a27a476fe1f15a59b25f4928094b2a49b7e8f054ed0cc5dc29a243173bf2e&idx=1&mid=2653057356&scene=21&sn=85d82226c7f66685ec8cf486569976dc#wechat_redirect<br>
@@ -34,7 +34,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
  
 4. 关联分析：<br>
 
-     1.《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》<br><br>
+     1.《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》<br>
      2.《CoFlux: Robustly Correlating KPIs by Fluctuations for Service Troubleshooting》<br>
      3.《Correlating Events with Time Series for Incident Diagnosis》<br>
      4.《Detecting Leaders from Correlated Time Series》<br>
