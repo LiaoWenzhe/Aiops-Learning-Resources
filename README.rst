@@ -6,6 +6,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
 
 -------------
 1. Aiops系统落地实践：
+^^^^^^^^
  https://github.com/LiaoWenzhe/BigdataAi/tree/main/projects
 2. 时间序列分类
 《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
