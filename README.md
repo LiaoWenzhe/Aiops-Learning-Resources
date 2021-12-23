@@ -6,9 +6,9 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
 --------------------------
 1. Aiops系统落地实践：
 
-    https://github.com/LiaoWenzhe/BigdataAi/tree/main/projects
+    https://github.com/LiaoWenzhe/BigdataAi/tree/main/projects<br>
 
-2. 时间序列分类：
+2. 时间序列分类：<br>
    1.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》<br>
    2.《Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection》<br>
    3.《A Density-Based Algorithm for Discovering Clusters》<br>
@@ -18,7 +18,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
    7.https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g<br>
 
 
-3. 时间序列异常检测：
+3. 时间序列异常检测：<br>
     1.《Time-Series Anomaly Detection Service at Microsof》<br>
     2.《Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications》<br><br>
     3.《Anomaly Detection in Streams with Extreme Value Theory》<br>
@@ -30,35 +30,35 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
     9. https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&chksm=8b685c6cbc1fd57a27a476fe1f15a59b25f4928094b2a49b7e8f054ed0cc5dc29a243173bf2e&idx=1&mid=2653057356&scene=21&sn=85d82226c7f66685ec8cf486569976dc#wechat_redirect<br>
     10. https://zhuanlan.zhihu.com/p/108843309<br>
  
-4. 关联分析：
+4. 关联分析：<br>
 
-     《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》
-     《CoFlux: Robustly Correlating KPIs by Fluctuations for Service Troubleshooting》
-     《Correlating Events with Time Series for Incident Diagnosis》
-     《Detecting Leaders from Correlated Time Series》
+     1.《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》<br><br>
+     2.《CoFlux: Robustly Correlating KPIs by Fluctuations for Service Troubleshooting》<br>
+     3.《Correlating Events with Time Series for Incident Diagnosis》<br>
+     4.《Detecting Leaders from Correlated Time Series》<br>
 
-5. 告警收敛：
+5. 告警收敛：<br>
 
-      《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
-      《CMining Alarm Clusters to Improve Alarm Handling Efficiency》
-      《Automatically and Adaptively Identifying Severe Alerts for Online Service Systems》
-      《Understanding and Handling Alert Storm for Online Service Systems》
-      《CoFlux: Robustly Correlating KPIs by Fluctuations for Service Troubleshooting》
-      《Aggregation and Correlation of Intrusion-Detection Alerts》
-      《Generic and Robust Localization of Multi-Dimensional Root Causes》
-      《Probabilistic Alert Correlation》
+      1.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》<br>
+      2.《CMining Alarm Clusters to Improve Alarm Handling Efficiency》<br>
+      3.《Automatically and Adaptively Identifying Severe Alerts for Online Service Systems》<br>
+      4.《Understanding and Handling Alert Storm for Online Service Systems》<br>
+      5.《CoFlux: Robustly Correlating KPIs by Fluctuations for Service Troubleshooting》<br>
+      6.《Aggregation and Correlation of Intrusion-Detection Alerts》<br>
+      7.《Generic and Robust Localization of Multi-Dimensional Root Causes》<br>
+      8.《Probabilistic Alert Correlation》<br>
       
-6. 根因分析：
+6. 根因分析：<br>
 
-      《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
-      《FluxRank: A Widely-Deployable Framework to Automatically Localizing Root Cause Machines for Software Service Failure Mitigation》
-      《Adtributor: Revenue debugging in advertising systems》
-      《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》
-7. 其他资源
+      1.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》<br>
+      2.《FluxRank: A Widely-Deployable Framework to Automatically Localizing Root Cause Machines for Software Service Failure Mitigation》<br>
+      3.《Adtributor: Revenue debugging in advertising systems》<br>
+      4.《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》<br>
+7. 其他资源<br>
 
-       https://github.com/NetManAIOps
-       https://github.com/AI-Sphere/Awesome-Noah
-       https://github.com/Tencent/Metis
-       https://github.com/linjinjin123/awesome-AIOps
+      1. https://github.com/NetManAIOps<br>
+      2. https://github.com/AI-Sphere/Awesome-Noah<br>
+      3. https://github.com/Tencent/Metis<br>
+      4. https://github.com/linjinjin123/awesome-AIOps<br>
        
   
