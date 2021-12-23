@@ -59,8 +59,8 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
 
 7. 其他资源：<br>
 
-      1.《Forecasting at Scale》
-      2.《Box-Cox Transformation for Simple Linear Regression》
+      1.《Forecasting at Scale》<br>
+      2.《Box-Cox Transformation for Simple Linear Regression》<br>
       3. https://github.com/NetManAIOps<br>
       4. https://github.com/AI-Sphere/Awesome-Noah<br>
       5. https://github.com/Tencent/Metis<br>
