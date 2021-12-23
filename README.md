@@ -4,11 +4,12 @@
 
 AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人工智能的能力与运维相结合，通过机器学习的方法来提升运维效率。
 --------------------------
-1. Aiops系统落地实践：
+1. Aiops系统落地实践：<br>
 
     https://github.com/LiaoWenzhe/BigdataAi/tree/main/projects<br>
 
 2. 时间序列分类：<br>
+
    1.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》<br>
    2.《Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection》<br>
    3.《A Density-Based Algorithm for Discovering Clusters》<br>
@@ -19,6 +20,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
 
 
 3. 时间序列异常检测：<br>
+
     1.《Time-Series Anomaly Detection Service at Microsof》<br>
     2.《Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications》<br><br>
     3.《Anomaly Detection in Streams with Extreme Value Theory》<br>
@@ -54,6 +56,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       2.《FluxRank: A Widely-Deployable Framework to Automatically Localizing Root Cause Machines for Software Service Failure Mitigation》<br>
       3.《Adtributor: Revenue debugging in advertising systems》<br>
       4.《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》<br>
+
 7. 其他资源<br>
 
       1. https://github.com/NetManAIOps<br>
