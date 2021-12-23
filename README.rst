@@ -1,41 +1,8 @@
-异常检测学习资源（Anomaly Detection Learning Resources）
+Aiops学习资源（Aiops Learning Resources）
 ====================================================
 
-.. image:: https://img.shields.io/github/stars/yzhao062/anomaly-detection-resources.svg
-   :target: https://github.com/yzhao062/anomaly-detection-resources/stargazers
-   :alt: GitHub stars
+`AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人工智能的能力与运维相结合，通过机器学习的方法来提升运维效率。
 
-
-.. image:: https://img.shields.io/github/forks/yzhao062/anomaly-detection-resources.svg?color=blue
-   :target: https://github.com/yzhao062/anomaly-detection-resources/network
-   :alt: GitHub forks
-
-
-.. image:: https://img.shields.io/github/license/yzhao062/anomaly-detection-resources.svg?color=blue
-   :target: https://github.com/yzhao062/anomaly-detection-resources/blob/master/LICENSE
-   :alt: License
-
-
-.. image:: https://img.shields.io/badge/link-996.icu-red.svg
-   :target: https://github.com/996icu/996.ICU
-   :alt: 996.ICU
-
-
-----
-
-`异常检测 (anomaly detection) <https://zh.wikipedia.org/wiki/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B>`_
-(又名 Outlier Detection) 是一个重要但非常有挑战性的领域。异常检测的目标主要是找到数据中
-偏离于主要分布的案例--它在很多领域都有重要意义，包括「信用卡诈骗检测」、「网络入侵检测」、
-「机械故障检测」等。
-
-这个仓库中收藏了关于异常检测的：
-
-
-#. 专业书籍与学术论文
-#. 在线课程与视频
-#. 异常检测数据集
-#. 开源与商业工具库
-#. 重要的会议与期刊
 
 
 **更多内容会被陆续添加到当前仓库中来**。
