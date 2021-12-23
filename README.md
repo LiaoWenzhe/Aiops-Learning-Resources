@@ -58,10 +58,10 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       4.《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》<br>
 
 7. 其他资源：<br>
-     
-      1. https://github.com/NetManAIOps<br>
-      2. https://github.com/AI-Sphere/Awesome-Noah<br>
-      3. https://github.com/Tencent/Metis<br>
-      4. https://github.com/linjinjin123/awesome-AIOps<br>
+      1. 《Forecasting at Scale》
+      2. https://github.com/NetManAIOps<br>
+      3. https://github.com/AI-Sphere/Awesome-Noah<br>
+      4. https://github.com/Tencent/Metis<br>
+      5. https://github.com/linjinjin123/awesome-AIOps<br>
        
   
