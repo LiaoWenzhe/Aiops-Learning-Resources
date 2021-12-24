@@ -7,11 +7,11 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
 廖文哲更新，最近更新日期为：2021/12/23<br>
 --------------------------
 
-1. Aiops系统落地实践：<br>
+## 1. Aiops系统落地实践：<br>
 
     https://github.com/LiaoWenzhe/BigdataAi/tree/main/projects<br>
 
-2. 时间序列分类：<br>
+## 2. 时间序列分类：<br>
 
    1.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》<br>
    2.《Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection》<br>
@@ -22,7 +22,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
    7. https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g<br>
 
 
-3. 时间序列异常检测：<br>
+## 3. 时间序列异常检测：<br>
 
     1.《Time-Series Anomaly Detection Service at Microsof》<br>
     2.《Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications》<br>
@@ -38,14 +38,14 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
     12. https://blog.csdn.net/Liao_Wenzhe/article/details/119796325<br>
     13. https://blog.csdn.net/Liao_Wenzhe/article/details/119732579<br>
  
-4. 关联分析：<br>
+## 4. 关联分析：<br>
 
      1.《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》<br>
      2.《CoFlux: Robustly Correlating KPIs by Fluctuations for Service Troubleshooting》<br>
      3.《Correlating Events with Time Series for Incident Diagnosis》<br>
      4.《Detecting Leaders from Correlated Time Series》<br>
 
-5. 告警收敛：<br>
+## 5. 告警收敛：<br>
 
       1.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》<br>
       2.《CMining Alarm Clusters to Improve Alarm Handling Efficiency》<br>
@@ -56,14 +56,14 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       7.《Generic and Robust Localization of Multi-Dimensional Root Causes》<br>
       8.《Probabilistic Alert Correlation》<br>
       
-6. 根因分析：<br>
+## 6. 根因分析：<br>
 
       1.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》<br>
       2.《FluxRank: A Widely-Deployable Framework to Automatically Localizing Root Cause Machines for Software Service Failure Mitigation》<br>
       3.《Adtributor: Revenue debugging in advertising systems》<br>
       4.《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》<br>
 
-7. 其他资源：<br>
+## 7. 其他资源：<br>
 
       1.《Forecasting at Scale》<br>
       2.《Box-Cox Transformation for Simple Linear Regression》<br>
