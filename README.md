@@ -9,7 +9,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
 
     https://github.com/LiaoWenzhe/BigdataAi/tree/main/projects
 
-## 2. 时间序列分类：
+## 2. 时间序列分类
 
    1.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
    2.《Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection》
