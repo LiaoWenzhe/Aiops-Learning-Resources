@@ -6,7 +6,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
     
 最近更新日期为：2021/12/23<br><br>
 最近组建了个AIOPS技术交流的群，欢迎志同道合的朋友与我联系加入！
-![8db3bfbb1cf94285c3f00ffea7b50b2](https://user-images.githubusercontent.com/45705519/147529727-bd78a1af-67e0-4333-a527-98650aef0058.jpg)
+<img width="120" height="70" align=center src="https://user-images.githubusercontent.com/45705519/147529773-5474a194-b323-4f34-b5c9-a46442afa68f.png"/>
 ## 1. Aiops系统落地实践
 
     https://github.com/LiaoWenzhe/BigdataAi/tree/main/projects
