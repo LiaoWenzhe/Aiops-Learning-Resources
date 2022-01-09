@@ -37,6 +37,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
     11. https://keras.io/examples/timeseries/timeseries_transformer_classification/
     12. https://blog.csdn.net/Liao_Wenzhe/article/details/119796325
     13. https://blog.csdn.net/Liao_Wenzhe/article/details/119732579
+    14. 《Robust Random Cut Forest Based Anomaly Detection On Streams》
  
 ## 4. 关联分析：
 
