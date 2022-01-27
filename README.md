@@ -4,7 +4,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
 
 笔者有幸在大学毕业加入世界领先的通信设备制造商，并与中国运营商深度合作，作为主要核心设计者设计了运营商大规模数据中心的多套AIOPS系统，在这将之前的经历分享出来，希望能让更多的人受益。
     
-最近更新日期为：2022/1/9<br><br>
+最近更新日期为：2022/1<br><br>
 **拒绝白嫖，欢迎star！**<br><br>
 笔者组建了个AIOPS技术交流的群，群友遍布硅谷，新加坡，腾讯，阿里，浙大等等，欢迎志同道合的朋友与我联系加入！<img width="90" height="90" align=center src="https://user-images.githubusercontent.com/45705519/147529773-5474a194-b323-4f34-b5c9-a46442afa68f.png"/>
 ## 1. Aiops系统落地实践
