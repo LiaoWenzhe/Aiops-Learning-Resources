@@ -20,6 +20,16 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
     5.《k-Shape: Efficient and Accurate Clustering of Time Series》
     6.《Probabilistic Alert Correlation》
     7. https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g
+    8. 《Clustering Interval-Censored Time-Series for Disease Phenotyping》
+    9. Correlative Channel-Aware Fusion for Multi-View Time Series Classification
+    10. Learnable Dynamic Temporal Pooling for Time Series Classification
+    11. ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification
+    12. Joint-Label Learning by Dual Augmentation for Time Series Classification
+    13. Learning Representations for Incomplete Time Series Clustering
+    14. Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Time Intervals
+
+
+
 
 
 ## 3. 时间序列异常检测：
@@ -37,7 +47,11 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
     11. https://keras.io/examples/timeseries/timeseries_transformer_classification/
     12. https://blog.csdn.net/Liao_Wenzhe/article/details/119796325
     13. https://blog.csdn.net/Liao_Wenzhe/article/details/119732579
-    14. 《Robust Random Cut Forest Based Anomaly Detection On Streams》
+    14.《Robust Random Cut Forest Based Anomaly Detection On Streams》
+    15. Graph Neural Network-Based Anomaly Detection in Multivariate Time Series
+    16. Time Series Anomaly Detection with Multiresolution Ensemble Decoding
+    17. Outlier Impact Characterization for Time Series Data
+    18. F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams
  
 ## 4. 关联分析：
 
@@ -64,7 +78,30 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       3.《Adtributor: Revenue debugging in advertising systems》
       4.《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》
 
-## 7. 其他资源：
+## 7. 时间序列补全：
+      1. 《Dynamic Nonlinear Matrix Completion for Time-Varying Data Imputation》
+      2. Generative Semi-Supervised Learning for Multivariate Time Series Imputation
+      
+## 8. 时间序列预测：
+      1. Deep Switching Auto-Regressive Factorization: Application to Time Series Forecasting
+      2. Dynamic Gaussian Mixture Based Deep Generative Model for Robust Forecasting on Sparse Multivariate Time Series
+      3. Temporal Latent Autoencoder: A Method for Probabilistic Multivariate Time Series Forecasting
+      4. Synergetic Learning of Heterogeneous Temporal Sequences for Multi-Horizon Probabilistic Forecasting
+      5. Time-Series Event Prediction with Evolutionary State Graph
+      
+## 9. 时间关系因果
+      1. Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference
+      2. Time Series Domain Adaptation via Sparse Associative Structure Alignment
+      3. Transformer-Style Relational Reasoning with Dynamic Memory Updating for Temporal Network Modeling
+      
+## 10. 时间神经网络
+      1. Bridging Towers of Multi-Task Learning with a Gating Mechanism for Aspect-Based Sentiment Analysis and Sequential Metaphor Identification
+      2. C2F-FWN: Coarse-to-Fine Flow Warping Network for Spatial-Temporal Consistent Motion Transfer
+      3. Inductive Graph Neural Networks for Spatiotemporal Kriging
+      4. Temporal-Coded Deep Spiking Neural Network with Easy Training and Robust Performance
+      5. Continuous-Time Attention for Sequential Learning
+
+## 13. 其他资源：
 
       1.《Forecasting at Scale》
       2.《Box-Cox Transformation for Simple Linear Regression》
