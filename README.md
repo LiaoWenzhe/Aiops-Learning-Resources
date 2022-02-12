@@ -27,6 +27,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
     12. Joint-Label Learning by Dual Augmentation for Time Series Classification
     13. Learning Representations for Incomplete Time Series Clustering
     14. Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Time Intervals
+    15. Temporal Phenotyping using Deep Predictive Clustering of Disease Progression
 
 
 
@@ -52,6 +53,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
     16. Time Series Anomaly Detection with Multiresolution Ensemble Decoding
     17. Outlier Impact Characterization for Time Series Data
     18. F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams
+    19. Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network
  
 ## 4. 关联分析：
 
@@ -59,6 +61,10 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
      2.《CoFlux: Robustly Correlating KPIs by Fluctuations for Service Troubleshooting》
      3.《Correlating Events with Time Series for Incident Diagnosis》
      4.《Detecting Leaders from Correlated Time Series》
+     5. Deep reconstruction of strange attractors from time series
+     6. High-recall causal discovery for autocorrelated time series with latent confounders
+     7. Statistical control for spatio-temporal MEG/EEG source imaging with desparsified mutli-task Lasso
+     8. Normalizing Kalman Filters for Multivariate Time Series Analysis
 
 ## 5. 告警收敛：
 
@@ -88,6 +94,10 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       3. Temporal Latent Autoencoder: A Method for Probabilistic Multivariate Time Series Forecasting
       4. Synergetic Learning of Heterogeneous Temporal Sequences for Multi-Horizon Probabilistic Forecasting
       5. Time-Series Event Prediction with Evolutionary State Graph
+      6. Probabilistic Time Series Forecasting with Shape and Temporal Diversity
+      7. Benchmarking Deep Learning Interpretability in Time Series Predictions
+      8. Adversarial Sparse Transformer for Time Series Forecasting
+      9. Deep Rao-Blackwellised Particle Filters for Time Series Forecasting
       
 ## 9. 时间关系因果
       1. Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference
@@ -100,6 +110,9 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       3. Inductive Graph Neural Networks for Spatiotemporal Kriging
       4. Temporal-Coded Deep Spiking Neural Network with Easy Training and Robust Performance
       5. Continuous-Time Attention for Sequential Learning
+      6. Temporal Spike Sequence Learning via Backpropagation for Deep Spiking Neural Networks
+      7. ARMA Nets: Expanding Receptive Field for Dense Prediction
+      8. Learning Long-Term Dependencies in Irregularly-Sampled Time Series
 
 ## 13. 其他资源：
 
