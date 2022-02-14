@@ -85,10 +85,12 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       4.《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》
 
 ## 7. 时间序列补全：
+
       1. 《Dynamic Nonlinear Matrix Completion for Time-Varying Data Imputation》
       2. Generative Semi-Supervised Learning for Multivariate Time Series Imputation
       
 ## 8. 时间序列预测：
+
       1. Deep Switching Auto-Regressive Factorization: Application to Time Series Forecasting
       2. Dynamic Gaussian Mixture Based Deep Generative Model for Robust Forecasting on Sparse Multivariate Time Series
       3. Temporal Latent Autoencoder: A Method for Probabilistic Multivariate Time Series Forecasting
@@ -100,6 +102,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       9. Deep Rao-Blackwellised Particle Filters for Time Series Forecasting
       
 ## 9. 时间关系因果
+
       1. Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference
       2. Time Series Domain Adaptation via Sparse Associative Structure Alignment
       3. Transformer-Style Relational Reasoning with Dynamic Memory Updating for Temporal Network Modeling
@@ -114,7 +117,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       7. ARMA Nets: Expanding Receptive Field for Dense Prediction
       8. Learning Long-Term Dependencies in Irregularly-Sampled Time Series
 
-## 13. 其他资源：
+## 11. 其他资源：
 
       1.《Forecasting at Scale》
       2.《Box-Cox Transformation for Simple Linear Regression》
