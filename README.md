@@ -13,46 +13,46 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
 
 ## 2. 时间序列分类
 
-    1. https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g
-    2. 《Clustering Interval-Censored Time-Series for Disease Phenotyping》
-    3. Correlative Channel-Aware Fusion for Multi-View Time Series Classification
-    4. Learnable Dynamic Temporal Pooling for Time Series Classification
-    5. ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification
-    6. Joint-Label Learning by Dual Augmentation for Time Series Classification
-    7. Learning Representations for Incomplete Time Series Clustering
-    8. Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Time Intervals
-    9. Temporal Phenotyping using Deep Predictive Clustering of Disease Progression
-    10.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
-    11.《Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection》
-    12.《A Density-Based Algorithm for Discovering Clusters》
-    13.《YADING: Fast Clustering of Large-Scale Time Series Data》
-    14.《k-Shape: Efficient and Accurate Clustering of Time Series》
-    15.《Probabilistic Alert Correlation》
+    1. 《Clustering Interval-Censored Time-Series for Disease Phenotyping》
+    2. Correlative Channel-Aware Fusion for Multi-View Time Series Classification
+    3. Learnable Dynamic Temporal Pooling for Time Series Classification
+    4. ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification
+    5. Joint-Label Learning by Dual Augmentation for Time Series Classification
+    6. Learning Representations for Incomplete Time Series Clustering
+    7. Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Time Intervals
+    8. Temporal Phenotyping using Deep Predictive Clustering of Disease Progression
+    9.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
+    10.《Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection》
+    11.《A Density-Based Algorithm for Discovering Clusters》
+    12.《YADING: Fast Clustering of Large-Scale Time Series Data》
+    13.《k-Shape: Efficient and Accurate Clustering of Time Series》
+    14.《Probabilistic Alert Correlation》
+    15. https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g
 
 
 
 
 ## 3. 时间序列异常检测：
+    1. Graph Neural Network-Based Anomaly Detection in Multivariate Time Series
+    2. Time Series Anomaly Detection with Multiresolution Ensemble Decoding
+    3. Outlier Impact Characterization for Time Series Data
+    4. F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams
+    5. Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network
+    6.《Time-Series Anomaly Detection Service at Microsof》
+    7.《Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications》
+    8.《Anomaly Detection in Streams with Extreme Value Theory》
+    9. https://github.com/yzhao062/anomaly-detection-resources
+    10. https://zhuanlan.zhihu.com/p/150316014
+    11. https://www.zhihu.com/question/29507442/answer/1212624591
+    12. https://www.zhihu.com/question/283641524/answer/1211966582
+    13. https://zr9558.com/2018/11/30/timeseriespredictionfbprophet/
+    14. https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&chksm=8b685c6cbc1fd57a27a476fe1f15a59b25f4928094b2a49b7e8f054ed0cc5dc29a243173bf2e&idx=1&mid=2653057356&scene=21&sn=85d82226c7f66685ec8cf486569976dc#wechat_redirect
+    15. https://zhuanlan.zhihu.com/p/108843309
+    16. https://keras.io/examples/timeseries/timeseries_transformer_classification/
+    17. https://blog.csdn.net/Liao_Wenzhe/article/details/119796325
+    18. https://blog.csdn.net/Liao_Wenzhe/article/details/119732579
+    19.《Robust Random Cut Forest Based Anomaly Detection On Streams》
 
-    1.《Time-Series Anomaly Detection Service at Microsof》
-    2.《Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications》
-    3.《Anomaly Detection in Streams with Extreme Value Theory》
-    4. https://github.com/yzhao062/anomaly-detection-resources
-    5. https://zhuanlan.zhihu.com/p/150316014
-    6. https://www.zhihu.com/question/29507442/answer/1212624591
-    7. https://www.zhihu.com/question/283641524/answer/1211966582
-    8. https://zr9558.com/2018/11/30/timeseriespredictionfbprophet/
-    9. https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&chksm=8b685c6cbc1fd57a27a476fe1f15a59b25f4928094b2a49b7e8f054ed0cc5dc29a243173bf2e&idx=1&mid=2653057356&scene=21&sn=85d82226c7f66685ec8cf486569976dc#wechat_redirect
-    10. https://zhuanlan.zhihu.com/p/108843309
-    11. https://keras.io/examples/timeseries/timeseries_transformer_classification/
-    12. https://blog.csdn.net/Liao_Wenzhe/article/details/119796325
-    13. https://blog.csdn.net/Liao_Wenzhe/article/details/119732579
-    14.《Robust Random Cut Forest Based Anomaly Detection On Streams》
-    15. Graph Neural Network-Based Anomaly Detection in Multivariate Time Series
-    16. Time Series Anomaly Detection with Multiresolution Ensemble Decoding
-    17. Outlier Impact Characterization for Time Series Data
-    18. F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams
-    19. Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network
  
 ## 4. 关联分析：
 
@@ -85,7 +85,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
 
 ## 7. 时间序列补全：
 
-      1. 《Dynamic Nonlinear Matrix Completion for Time-Varying Data Imputation》
+      1.《Dynamic Nonlinear Matrix Completion for Time-Varying Data Imputation》
       2. Generative Semi-Supervised Learning for Multivariate Time Series Imputation
       
 ## 8. 时间序列预测：
@@ -107,6 +107,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       3. Transformer-Style Relational Reasoning with Dynamic Memory Updating for Temporal Network Modeling
       
 ## 10. 时间神经网络
+
       1. Bridging Towers of Multi-Task Learning with a Gating Mechanism for Aspect-Based Sentiment Analysis and Sequential Metaphor Identification
       2. C2F-FWN: Coarse-to-Fine Flow Warping Network for Spatial-Temporal Consistent Motion Transfer
       3. Inductive Graph Neural Networks for Spatiotemporal Kriging
@@ -119,6 +120,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       10. Learnable Group Transform For Time-Series
 
 ## 11. 时空知识图谱/时空预测
+
       1. ChronoR: Rotation Based Temporal Knowledge Graph Embedding
       2. Learning from History: Modeling Temporal Knowledge Graphs with Sequential CopyGeneration Networks
       3. Neural Latent Space Model for Dynamic Networks and Temporal Knowledge Graphs
@@ -127,6 +129,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       6. Unsupervised Transfer Learning for Spatiotemporal Predictive Networks
       
 ## 12. 时间序列数据处理
+
       1. Set Functions for Time Series
       2. Learning from Irregularly-Sampled Time Series: A Missing Data Perspective
       
