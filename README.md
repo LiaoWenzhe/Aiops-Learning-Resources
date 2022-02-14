@@ -13,22 +13,21 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
 
 ## 2. 时间序列分类
 
-    1.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
-    2.《Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection》
-    3.《A Density-Based Algorithm for Discovering Clusters》
-    4.《YADING: Fast Clustering of Large-Scale Time Series Data》
-    5.《k-Shape: Efficient and Accurate Clustering of Time Series》
-    6.《Probabilistic Alert Correlation》
-    7. https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g
-    8. 《Clustering Interval-Censored Time-Series for Disease Phenotyping》
-    9. Correlative Channel-Aware Fusion for Multi-View Time Series Classification
-    10. Learnable Dynamic Temporal Pooling for Time Series Classification
-    11. ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification
-    12. Joint-Label Learning by Dual Augmentation for Time Series Classification
-    13. Learning Representations for Incomplete Time Series Clustering
-    14. Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Time Intervals
-    15. Temporal Phenotyping using Deep Predictive Clustering of Disease Progression
-
+    1. https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g
+    2. 《Clustering Interval-Censored Time-Series for Disease Phenotyping》
+    3. Correlative Channel-Aware Fusion for Multi-View Time Series Classification
+    4. Learnable Dynamic Temporal Pooling for Time Series Classification
+    5. ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification
+    6. Joint-Label Learning by Dual Augmentation for Time Series Classification
+    7. Learning Representations for Incomplete Time Series Clustering
+    8. Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Time Intervals
+    9. Temporal Phenotyping using Deep Predictive Clustering of Disease Progression
+    10.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
+    11.《Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection》
+    12.《A Density-Based Algorithm for Discovering Clusters》
+    13.《YADING: Fast Clustering of Large-Scale Time Series Data》
+    14.《k-Shape: Efficient and Accurate Clustering of Time Series》
+    15.《Probabilistic Alert Correlation》
 
 
 
@@ -116,8 +115,22 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       6. Temporal Spike Sequence Learning via Backpropagation for Deep Spiking Neural Networks
       7. ARMA Nets: Expanding Receptive Field for Dense Prediction
       8. Learning Long-Term Dependencies in Irregularly-Sampled Time Series
+      9. Temporal Spike Sequence Learning via Backpropagation for Deep Spiking Neural Networks
+      10. Learnable Group Transform For Time-Series
 
-## 11. 其他资源：
+## 11. 时空知识图谱/时空预测
+      1. ChronoR: Rotation Based Temporal Knowledge Graph Embedding
+      2. Learning from History: Modeling Temporal Knowledge Graphs with Sequential CopyGeneration Networks
+      3. Neural Latent Space Model for Dynamic Networks and Temporal Knowledge Graphs
+      4. CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations
+      5. ARMA Nets: Expanding Receptive Field for Dense Prediction
+      6. Unsupervised Transfer Learning for Spatiotemporal Predictive Networks
+      
+## 12. 时间序列数据处理
+      1. Set Functions for Time Series
+      2. Learning from Irregularly-Sampled Time Series: A Missing Data Perspective
+      
+## 13. 其他资源：
 
       1.《Forecasting at Scale》
       2.《Box-Cox Transformation for Simple Linear Regression》
