@@ -9,7 +9,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
 笔者组建了个AIOPS技术交流的群，群友遍布硅谷，新加坡，腾讯，阿里，浙大等等，欢迎志同道合的朋友与我联系加入！<img width="90" height="90" align=center src="https://user-images.githubusercontent.com/45705519/147529773-5474a194-b323-4f34-b5c9-a46442afa68f.png"/>
 ## 1. Aiops系统落地实践
 
-    https://github.com/LiaoWenzhe/BigdataAi/tree/main/projects
+    https://zhuanlan.zhihu.com/p/466955597?
 
 ## 2. 时间序列分类
 
