@@ -46,7 +46,6 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
     11. https://www.zhihu.com/question/29507442/answer/1212624591
     12. https://www.zhihu.com/question/283641524/answer/1211966582
     13. https://zr9558.com/2018/11/30/timeseriespredictionfbprophet/
-    14. https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&chksm=8b685c6cbc1fd57a27a476fe1f15a59b25f4928094b2a49b7e8f054ed0cc5dc29a243173bf2e&idx=1&mid=2653057356&scene=21&sn=85d82226c7f66685ec8cf486569976dc#wechat_redirect
     15. https://zhuanlan.zhihu.com/p/108843309
     16. https://keras.io/examples/timeseries/timeseries_transformer_classification/
     17. https://blog.csdn.net/Liao_Wenzhe/article/details/119796325
@@ -77,14 +76,12 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       8.《Probabilistic Alert Correlation》
       
 ## 6. 根因分析：
-
       1.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
       2.《FluxRank: A Widely-Deployable Framework to Automatically Localizing Root Cause Machines for Software Service Failure Mitigation》
       3.《Adtributor: Revenue debugging in advertising systems》
       4.《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》
 
 ## 7. 时间序列补全：
-
       1.《Dynamic Nonlinear Matrix Completion for Time-Varying Data Imputation》
       2. Generative Semi-Supervised Learning for Multivariate Time Series Imputation
       
