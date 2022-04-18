@@ -42,9 +42,6 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
     7.《Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications》
     8.《Anomaly Detection in Streams with Extreme Value Theory》
     9. https://github.com/yzhao062/anomaly-detection-resources
-    10. https://zhuanlan.zhihu.com/p/150316014
-    11. https://www.zhihu.com/question/29507442/answer/1212624591
-    12. https://www.zhihu.com/question/283641524/answer/1211966582
     13. https://zr9558.com/2018/11/30/timeseriespredictionfbprophet/
     15. https://zhuanlan.zhihu.com/p/108843309
     16. https://keras.io/examples/timeseries/timeseries_transformer_classification/
