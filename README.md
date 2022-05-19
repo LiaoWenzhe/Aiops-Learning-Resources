@@ -1,21 +1,22 @@
 
-# Aiops学习资源
+# Aiops Learning Resources
 
- English | [简体中文](README_zh-CN.md)<br>
+ English | [Simplified Chinese](README_zh-CN.md)<br>
   
-AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人工智能的能力与运维相结合，通过机器学习的方法来提升运维效率。<br>
+AIOps (Artificial Intelligence for IT Operations), that is, intelligent operation and maintenance, is to combine the capabilities of artificial intelligence with operation and maintenance, and improve the efficiency of operation and maintenance through machine learning methods. <br>
 
-笔者有幸在大学毕业加入世界领先的通信设备制造商，并与中国运营商深度合作，作为主要核心设计者设计了运营商大规模数据中心的多套AIOPS系统，在这将之前收集的资料分享出来，希望能尽自己的微薄之力推动社区发展。
+The author is fortunate to join the world's leading communication equipment manufacturer after graduating from university, and has in-depth cooperation with Chinese operators. As the main core designer, he designed multiple sets of AIOPS systems for the operator's large-scale data center, and shared the previously collected data. , I hope to do my best to promote the development of the community.
     
-最近更新日期为：2022/1<br><br>
-**拒绝白嫖，欢迎star！**<br><br>
-笔者组建了个AIOPS技术交流的群，群友遍布硅谷，新加坡，腾讯，阿里，浙大等等，欢迎志同道合的朋友与我联系加入！<img width="90" height="90" align=center src="https://user-images.githubusercontent.com/45705519/147529773-5474a194-b323-4f34-b5c9-a46442afa68f.png"/>
-## 1. Aiops系统落地实践
+Last update date: 2022/1<br><br>
+**Refuse to prostitute, welcome star! **<br><br>
+The author has set up an AIOPS technical exchange group with friends all over Silicon Valley, Singapore, Tencent, Ali, Zhejiang University, etc. Like-minded friends are welcome to contact me to join! <img width="90" height="90" align=center src="https://user-images.githubusercontent.com/45705519/147529773-5474a194-b323-4f34-b5c9-a46442afa68f.png"/>
 
-    算法架构：https://zhuanlan.zhihu.com/p/466955597?
-    工程架构：https://zhuanlan.zhihu.com/p/511095084
+## 1. Aiops system landing practice
 
-## 2. 时间序列分类
+    Algorithm Architecture: https://zhuanlan.zhihu.com/p/466955597?
+    Engineering Architecture: https://zhuanlan.zhihu.com/p/511095084
+
+## 2. Time series classification
 
     1. 《Clustering Interval-Censored Time-Series for Disease Phenotyping》
     2. Correlative Channel-Aware Fusion for Multi-View Time Series Classification
@@ -36,7 +37,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
 
 
 
-## 3. 时间序列异常检测：
+## 3. Time series anomaly detection:
     1. Graph Neural Network-Based Anomaly Detection in Multivariate Time Series
     2. Time Series Anomaly Detection with Multiresolution Ensemble Decoding
     3. Outlier Impact Characterization for Time Series Data
@@ -55,7 +56,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
     20. https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&chksm=8b685c6cbc1fd57a27a476fe1f15a59b25f4928094b2a49b7e8f054ed0cc5dc29a243173bf2e&idx=1&mid=2653057356&scene=21&sn=85d82226c7f66685ec8cf486569976dc#wechat_redirect
 
  
-## 4. 关联分析：
+## 4. Association analysis:
 
      1.《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》
      2.《CoFlux: Robustly Correlating KPIs by Fluctuations for Service Troubleshooting》
@@ -66,7 +67,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
      7. Statistical control for spatio-temporal MEG/EEG source imaging with desparsified mutli-task Lasso
      8. Normalizing Kalman Filters for Multivariate Time Series Analysis
 
-## 5. 告警收敛：
+## 5. Alarm convergence:
 
       1.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
       2.《CMining Alarm Clusters to Improve Alarm Handling Efficiency》
@@ -77,17 +78,17 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       7.《Generic and Robust Localization of Multi-Dimensional Root Causes》
       8.《Probabilistic Alert Correlation》
       
-## 6. 根因分析：
+## 6. Root cause analysis:
       1.《Clustering Intrusion Detection Alarms to Support Root Cause Analysis》
       2.《FluxRank: A Widely-Deployable Framework to Automatically Localizing Root Cause Machines for Software Service Failure Mitigation》
       3.《Adtributor: Revenue debugging in advertising systems》
       4.《HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes》
-
-## 7. 时间序列补全：
+      
+## 7. Time series completion:
       1.《Dynamic Nonlinear Matrix Completion for Time-Varying Data Imputation》
       2. Generative Semi-Supervised Learning for Multivariate Time Series Imputation
       
-## 8. 时间序列预测：
+## 8. Time series forecasting:
 
       1. Deep Switching Auto-Regressive Factorization: Application to Time Series Forecasting
       2. Dynamic Gaussian Mixture Based Deep Generative Model for Robust Forecasting on Sparse Multivariate Time Series
@@ -99,13 +100,13 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       8. Adversarial Sparse Transformer for Time Series Forecasting
       9. Deep Rao-Blackwellised Particle Filters for Time Series Forecasting
       
-## 9. 时间关系因果
+## 9. Time-related causality
 
       1. Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference
       2. Time Series Domain Adaptation via Sparse Associative Structure Alignment
       3. Transformer-Style Relational Reasoning with Dynamic Memory Updating for Temporal Network Modeling
       
-## 10. 时间神经网络
+## 10. Temporal Neural Network
 
       1. Bridging Towers of Multi-Task Learning with a Gating Mechanism for Aspect-Based Sentiment Analysis and Sequential Metaphor Identification
       2. C2F-FWN: Coarse-to-Fine Flow Warping Network for Spatial-Temporal Consistent Motion Transfer
@@ -118,7 +119,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       9. Temporal Spike Sequence Learning via Backpropagation for Deep Spiking Neural Networks
       10. Learnable Group Transform For Time-Series
 
-## 11. 时空知识图谱/时空预测
+## 11. Spatiotemporal knowledge graph/spatiotemporal prediction
 
       1. ChronoR: Rotation Based Temporal Knowledge Graph Embedding
       2. Learning from History: Modeling Temporal Knowledge Graphs with Sequential CopyGeneration Networks
@@ -127,21 +128,21 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
       5. ARMA Nets: Expanding Receptive Field for Dense Prediction
       6. Unsupervised Transfer Learning for Spatiotemporal Predictive Networks
       
-## 12. 时间序列数据处理
+## 12. Time series data processing
 
       1. Set Functions for Time Series
       2. Learning from Irregularly-Sampled Time Series: A Missing Data Perspective
       
-## 13. 其他资源：
+## 13. Other resources:
 
-      1.《Forecasting at Scale》
-      2.《Box-Cox Transformation for Simple Linear Regression》
+      1. "Forecasting at Scale"
+      2. "Box-Cox Transformation for Simple Linear Regression"
       3. https://github.com/NetManAIOps
       4. https://github.com/AI-Sphere/Awesome-Noah
       5. https://github.com/Tencent/Metis
       6. https://github.com/linjinjin123/awesome-AIOps
-      7. 微信公众号：智能运维前沿
-      8. 微信公众号：时序人
+      7. WeChat Official Account: Frontier of Intelligent Operation and Maintenance
+      8. WeChat public account: Timing people
       9. https://blog.csdn.net/Liao_Wenzhe/article/details/119579709
       10. https://blog.csdn.net/Liao_Wenzhe/article/details/11933514
        
