@@ -8,7 +8,10 @@ AIOps (Artificial Intelligence for IT Operations), that is, intelligent operatio
 The author is fortunate to join the world's leading communication equipment manufacturer after graduating from university, and has in-depth cooperation with Chinese operators. As the main core designer, he designed multiple sets of AIOPS systems for the operator's large-scale data center, and shared the previously collected data. , I hope to do my best to promote the development of the community.
     
 Last update date: 2022/1<br><br>
+
+**拒绝白嫖，欢迎star！**<br><br>
 **Refuse to prostitute, welcome star! **<br><br>
+
 The author has set up an AIOPS technical exchange group with friends all over Silicon Valley, Singapore, Tencent, Ali, Zhejiang University, etc. Like-minded friends are welcome to contact me to join! <img width="90" height="90" align=center src="https://user-images.githubusercontent.com/45705519/147529773-5474a194-b323-4f34-b5c9-a46442afa68f.png"/>
 
 ## 1. Aiops system landing practice
