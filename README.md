@@ -1,7 +1,7 @@
 
 # Aiops Learning Resources
 
- English | [Simplified Chinese](README_zh-CN.md)<br>
+ English | [简体中文](README_zh-CN.md)<br>
   
 AIOps (Artificial Intelligence for IT Operations), that is, intelligent operation and maintenance, is to combine the capabilities of artificial intelligence with operation and maintenance, and improve the efficiency of operation and maintenance through machine learning methods. <br>
 
