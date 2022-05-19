@@ -1,7 +1,7 @@
 
 # Aiops学习资源
 
- English | [简体中文](README_zh-CN.md)<br>
+ [English](README.md) | 简体中文<br>
   
 AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人工智能的能力与运维相结合，通过机器学习的方法来提升运维效率。<br>
 
