@@ -17,6 +17,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
 
     算法架构：https://zhuanlan.zhihu.com/p/466955597?
     工程架构：https://zhuanlan.zhihu.com/p/511095084
+    API风险检测系统：https://zhuanlan.zhihu.com/p/548450688
     相关资料收集：https://github.com/LiaoWenzhe/BigdataAi
 
 ## 2. 时间序列分类
