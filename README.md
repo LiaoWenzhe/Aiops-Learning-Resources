@@ -7,7 +7,7 @@ AIOps (Artificial Intelligence for IT Operations), that is, intelligent operatio
 
 The author is fortunate to join the world's leading communication equipment manufacturer after graduating from university, and has in-depth cooperation with Chinese operators. As the main core designer, he designed multiple sets of AIOPS systems for the operator's large-scale data center, and shared the previously collected data. , I hope to do my best to promote the development of the community.
     
-Last update date: 2022/1<br><br>
+Last update date: 2022/11<br><br>
 
 ### Refuse to prostitute, welcome star!  <br><br>
 
