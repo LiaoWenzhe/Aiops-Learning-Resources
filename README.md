@@ -20,6 +20,7 @@ The author has set up an AIOPS technical exchange group with friends all over Si
 
     Algorithm Architecture: https://zhuanlan.zhihu.com/p/466955597?
     Engineering Architecture: https://zhuanlan.zhihu.com/p/511095084
+    API Risk Detection System: https://zhuanlan.zhihu.com/p/548450688
     Collection of relevant information：https://github.com/LiaoWenzhe/BigdataAi
 
 ## 2. Time series classification
