@@ -22,7 +22,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
 
 ## 2. 时间序列分类
 
-    1. 《Clustering Interval-Censored Time-Series for Disease Phenotyping》
+    1. https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g
     2. Correlative Channel-Aware Fusion for Multi-View Time Series Classification
     3. Learnable Dynamic Temporal Pooling for Time Series Classification
     4. ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification
@@ -36,13 +36,13 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
     12.《YADING: Fast Clustering of Large-Scale Time Series Data》
     13.《k-Shape: Efficient and Accurate Clustering of Time Series》
     14.《Probabilistic Alert Correlation》
-    15. https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g
+    15. 《Clustering Interval-Censored Time-Series for Disease Phenotyping》
 
 
 
 
 ## 3. 时间序列异常检测：
-    1. Graph Neural Network-Based Anomaly Detection in Multivariate Time Series
+    1. https://zhuanlan.zhihu.com/p/108843309
     2. Time Series Anomaly Detection with Multiresolution Ensemble Decoding
     3. Outlier Impact Characterization for Time Series Data
     4. F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams
@@ -52,7 +52,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
     8.《Anomaly Detection in Streams with Extreme Value Theory》
     9. https://github.com/yzhao062/anomaly-detection-resources
     13. https://zr9558.com/2018/11/30/timeseriespredictionfbprophet/
-    15. https://zhuanlan.zhihu.com/p/108843309
+    15. Graph Neural Network-Based Anomaly Detection in Multivariate Time Series
     10. https://zhuanlan.zhihu.com/p/150316014
     11. https://www.zhihu.com/question/29507442/answer/1212624591
     12. https://www.zhihu.com/question/283641524/answer/1211966582
