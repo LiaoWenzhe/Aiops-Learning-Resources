@@ -24,7 +24,7 @@ A person can go fast, only a group of people can go farther. The author has set 
     Collection of relevant information：https://github.com/LiaoWenzhe/BigdataAi
 
 ## 2. Time series classification
-
+    0. https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g
     1. 《Clustering Interval-Censored Time-Series for Disease Phenotyping》
     2. Correlative Channel-Aware Fusion for Multi-View Time Series Classification
     3. Learnable Dynamic Temporal Pooling for Time Series Classification
@@ -39,7 +39,7 @@ A person can go fast, only a group of people can go farther. The author has set 
     12.《YADING: Fast Clustering of Large-Scale Time Series Data》
     13.《k-Shape: Efficient and Accurate Clustering of Time Series》
     14.《Probabilistic Alert Correlation》
-    15. https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g
+
 
 
 
