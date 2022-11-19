@@ -19,7 +19,7 @@ AIOps(Artificial Intelligence for IT Operations)，即智能运维，是将人�
     工程架构：https://zhuanlan.zhihu.com/p/511095084
     API风险检测系统：https://zhuanlan.zhihu.com/p/548450688
     相关资料收集：https://github.com/LiaoWenzhe/BigdataAi
-
+    相关技术专栏：https://www.zhihu.com/column/c_1471819989803700224
 ## 2. 时间序列分类
 
     1. https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g
