@@ -22,6 +22,7 @@ A person can go fast, only a group of people can go farther. The author has set 
     Engineering Architecture: https://zhuanlan.zhihu.com/p/511095084
     API Risk Detection System: https://zhuanlan.zhihu.com/p/548450688
     Collection of relevant information：https://github.com/LiaoWenzhe/BigdataAi
+    Related technical columns： https://www.zhihu.com/column/c_1471819989803700224
 
 ## 2. Time series classification
     0. https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g
