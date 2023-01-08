@@ -16,7 +16,7 @@ A person can go fast, only a group of people can go farther. The author has set 
 &emsp;&emsp;<img width="180" height="220" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/chat1.jpg"/>
 &emsp;&emsp;<img width="180" height="220" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/chat2.jpg"/>
 
-## 1. Aiops system landing practice
+## 1. personal collection：Aiops system landing practice
 
     Algorithm Architecture: https://zhuanlan.zhihu.com/p/466955597?
     Engineering Architecture: https://zhuanlan.zhihu.com/p/511095084
